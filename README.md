@@ -4,7 +4,7 @@
 
 ## A Distributed Personal and Collective System for Replacing Operating Systems
 
-Why are we still living inside operating systems built for one computer on one desk in the 1970s? Our lives are scattered across laptops, phones, servers, tablets, wearables, embedded systems, and machines we do not even own, but each one still pretends it is the center of the universe. So we copy the same tools everywhere, sync the same data again and again, rebuild the same trust decisions, babysit the same configuration, and call that progress. Organism asks for something better: one persistent computational life, with every device acting as an organ of a single, larger being.
+Why are we still living inside operating systems built for one computer on one desk in the 1970s? Our lives are scattered across laptops, phones, servers, tablets, wearables, embedded systems, and machines we do not even own, but each one still pretends it is the center of the universe. So we copy the same tools everywhere, sync the same data again and again, rebuild the same trust decisions, babysit the same configuration, and call that progress. Organism is designed to give us something that matches where we are today: one persistent computational life, with every device acting as an organ of a single, larger being.
 
 ### Draft Specification v0.3
 
