@@ -1,3 +1,5 @@
+<img src="assets/organism-volvox-icon.svg" alt="Organism icon" width="96" align="left">
+
 # Organism
 
 ## A Distributed Personal and Collective System for Replacing Operating Systems
