@@ -4,6 +4,8 @@
 
 ## A Distributed Personal and Collective System for Replacing Operating Systems
 
+Why are we still organizing our computational lives around systems designed for single computers in the 1970s? Today, a person may move constantly among laptops, phones, servers, tablets, wearables, and shared machines, yet each device still behaves like a separate little kingdom: duplicating code, duplicating configuration, duplicating storage, duplicating trust decisions, and forcing the human to keep the whole mess coherent. Organism starts from a different premise: the persistent subject is not the machine. The organism is the enduring computational identity, and devices are temporary organs that join, sleep, fail, and get replaced while the larger system continues.
+
 ### Draft Specification v0.3
 
 ## Executive overview
