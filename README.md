@@ -4,7 +4,7 @@
 
 ## A Distributed Personal and Collective System for Replacing Operating Systems
 
-Why are we still organizing our computational lives around systems designed for single computers in the 1970s? Today, a person may move constantly among laptops, phones, servers, tablets, wearables, and shared machines, yet each device still behaves like a separate little kingdom: duplicating code, duplicating configuration, duplicating storage, duplicating trust decisions, and forcing the human to keep the whole mess coherent. Organism starts from a different premise: the persistent subject is not the machine. The organism is the enduring computational identity, and devices are temporary organs that join, sleep, fail, and get replaced while the larger system continues.
+Why are we still living inside operating systems built for one computer on one desk in the 1970s? Our lives are scattered across laptops, phones, servers, tablets, wearables, and machines we do not even own, but each one still pretends it is the center of the universe. So we copy the same tools everywhere, sync the same data again and again, rebuild the same trust decisions, babysit the same configuration, and call that progress. Organism asks for something better: one persistent computational life, with every device acting as an organ of the same larger being.
 
 ### Draft Specification v0.3
 
